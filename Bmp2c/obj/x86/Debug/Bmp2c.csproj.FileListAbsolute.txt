@@ -1,0 +1,5 @@
+C:\Projects\DMC\Arduino_T6963C\Bmp2c\bin\x86\Debug\Bmp2c.exe
+C:\Projects\DMC\Arduino_T6963C\Bmp2c\bin\x86\Debug\Bmp2c.pdb
+C:\Projects\DMC\Arduino_T6963C\Bmp2c\obj\x86\Debug\Bmp2c.csprojResolveAssemblyReference.cache
+C:\Projects\DMC\Arduino_T6963C\Bmp2c\obj\x86\Debug\Bmp2c.exe
+C:\Projects\DMC\Arduino_T6963C\Bmp2c\obj\x86\Debug\Bmp2c.pdb
